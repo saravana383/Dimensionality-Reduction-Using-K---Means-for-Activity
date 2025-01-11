@@ -1,1 +1,1 @@
-# Dimensionality-Reduction-Using-K---Means-for-Activity
+# Dimensionality-Reduction-Using-K-Means for Activity
